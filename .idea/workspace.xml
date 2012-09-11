@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7694e887-d816-4bd9-8c26-d2af34607288" name="Default" comment="" />
+    <list default="true" id="7694e887-d816-4bd9-8c26-d2af34607288" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test" afterPath="$PROJECT_DIR$/test" />
+    </list>
     <ignored path="fresker.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -184,7 +186,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0955414">
+        <state line="2" column="14" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0955414">
           <folding />
         </state>
       </provider>
